@@ -1,0 +1,32 @@
+_repo: The-Annals-of-the-Poor_19671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richmond, Legh
+    birthdate: 1772
+    deathdate: 1827
+    gutenberg_agent_id: '8781'
+    url: http://www.gutenberg.org/2009/agents/8781
+    wikipedia: http://en.wikipedia.org/wiki/Legh_Richmond
+description: ''
+gutenberg_issued: '2006-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+tableOfContents: The dairyman's daughter -- The negro servant -- The young cottager
+  -- The cottage conversation -- A visit to the infirmary.
+title: The Annals of the Poor
+url: http://www.gutenberg.org/ebooks/19671
