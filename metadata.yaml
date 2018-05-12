@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8781
     wikipedia: http://en.wikipedia.org/wiki/Legh_Richmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19671#The-Annals-of-the-Poor
 gutenberg_issued: '2006-10-30'
 gutenberg_type: Text
 identifiers:
